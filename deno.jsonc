@@ -1,0 +1,6 @@
+{
+  "tasks": {
+    "write-dump": "deno run --allow-write writer.ts",
+    "read-dump": "deno run --allow-read reader.ts"
+  }
+}
